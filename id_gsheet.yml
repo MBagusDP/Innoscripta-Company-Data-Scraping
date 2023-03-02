@@ -1,0 +1,7 @@
+id:
+  spreadsheet :
+    url: put your id here
+    client_id: put your id here
+    client_secret: put your id here
+    refresh_token: put your id here
+    grant_type: put your id here
